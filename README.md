@@ -16,3 +16,7 @@ Scikit-learn (TF-IDF Vectorization)
 XGBoost (Classification Model)
 Pandas / NumPy
 Joblib (Model Persistence)
+
+<img width="100%" height="100%" alt="image" src="https://github.com/user-attachments/assets/e55eda75-9b01-4d79-b355-a1a518e8fc60" />
+<img width="100%" height="100%" alt="image" src="https://github.com/user-attachments/assets/b2a740d5-27ca-476c-94d5-2b4ab98fc1a8" />
+
